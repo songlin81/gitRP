@@ -3,6 +3,7 @@
 # Date: 2014/10/01
 
 # Revision: under dev branch
+# Revision: avoid to use Fast Forward
 
 from multiprocessing import Process
 import os
