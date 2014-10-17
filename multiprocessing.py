@@ -1,4 +1,6 @@
 # multiprocessing.py
+# Author: Lin, Song
+# Date: 2014/10/01
 
 from multiprocessing import Process
 import os
