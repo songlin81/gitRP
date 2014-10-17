@@ -2,6 +2,8 @@
 # Author: Lin, Song
 # Date: 2014/10/01
 
+# Revision: under dev branch
+
 from multiprocessing import Process
 import os
 
